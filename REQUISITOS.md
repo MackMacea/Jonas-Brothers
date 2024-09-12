@@ -43,7 +43,7 @@
 -> o sistema deve garantir um tempo de resposta baixo<br>
 -> o sistema deve possuir alta disponibilidade<br>
 -> o sistema deve garantir sua segurança <br>
-
+-> legislação(LGPD e leis correlatas) <br>
 
 
 
