@@ -38,7 +38,11 @@
 -> o sistema vai enviar a demanda para a fabrcia designada<br>
 -> o sistema só encerra o pedido após receber a confirmação do codigo de entrega<br>
 
-
+## Requisitos não funcionais:
+-> o sistema deve ser capaz de atender a demanda de todas as fabricas cadastradas<br>
+-> o sistema deve garantir um tempo de resposta baixo<br>
+-> o sistema deve possuir alta disponibilidade<br>
+-> o sistema deve garantir sua segurança <br>
 
 
 
