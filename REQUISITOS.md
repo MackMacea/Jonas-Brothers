@@ -1,7 +1,35 @@
 # REQUISITOS DO SISTEMA 1 ( referente ao atendimento ao cliente)
 
 ## Requisitos Funcionais:
----> localização de todas as lojas 
---->
---->
---->
+### Consumidor
+-> Area de login e senha/cadastro pro usuario<br>
+-> receber o endereço do usuario <br>
+-> oferecer uma area de compras ao cliente <br>
+-> o aplicativo deve avaliar a fabrica mais proxima do cliente <br>
+-> o aplicativo deve informar o tempo medio de entrega<br>
+-> se o pedido for confrimado pelo cliente o app deve oferecer opção de pagamento via o app /ou quando o pedido chegar <br>
+-> o aplicativo deve enviar a solicitação para o sistema de fabrica e receber a resposta do mesmo <br>
+-> ao app deve mostrar um menu atualizado em tempo real com o status de seu pedido <br>
+-> ao pedido sair para entrega o app devera mostrar a rota do entregador para o cliente junto a uma previsão de chegada<br>
+-> o app ira gerar um token de 4 numeros para o cliente assegurar o pedido com o entregador.<br>
+-> o app deve ter uma area de contato para suporte<br>
+### Pizzaria
+-> o app deve permitir a pizzaria alterar o cardapio<br>
+-> o app deve permitir a pizzaria fechar e abrir lojas<br>
+-> o sistema deve enviar a loja escolhida o endereço, pedido e metodo de pagamento<br>
+### Entregador
+-> o app deve possuir um sistema de gps para o entregador<br>
+-> o app na area do entregador deve receber o codigo para conseguir finalizar o pedido.<br>
+
+## Requisitos não Funcionais:
+-> o sistema deve garantir a criptografia dos dados do cliente<br>
+-> de acordo com a LGPD<br>
+-> tempo de resposta moderado<br>
+->deve ser capaz de atender a demanda da area de cobertura das pizzarias.<br>
+
+
+
+
+
+
+
