@@ -7,7 +7,7 @@
 -> oferecer uma area de compras ao cliente <br>
 -> o aplicativo deve enviar a solicitação para o sistema de fabrica e receber a resposta do mesmo <br>
 -> o aplicativo deve informar o tempo medio de entrega<br>
--> se o pedido for confrimado pelo cliente o app deve oferecer opção de pagamento via o app /ou quando o pedido chegar <br>
+-> se o pedido for confirmado pelo cliente o app deve oferecer opção de pagamento via o app /ou quando o pedido chegar <br>
 -> ao app deve mostrar um menu atualizado em tempo real com o status de seu pedido <br>
 -> ao pedido sair para entrega o app devera mostrar a rota do entregador para o cliente junto a uma previsão de chegada<br>
 -> o app ira gerar um token de 4 numeros para o cliente assegurar o pedido com o entregador.<br>
