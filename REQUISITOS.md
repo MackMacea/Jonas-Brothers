@@ -11,7 +11,7 @@
 -> ao app deve mostrar um menu atualizado em tempo real com o status de seu pedido <br>
 -> ao pedido sair para entrega o app devera mostrar a rota do entregador para o cliente junto a uma previsão de chegada<br>
 -> o app ira gerar um token de 4 numeros para o cliente assegurar o pedido com o entregador.<br>
--> o app deve enviar a confirmação de do codigo de entrega para o sistema
+-> o app deve enviar a confirmação de do codigo de entrega para o sistema.<br>
 -> o app deve ter uma area de contato para suporte<br>
 ### Pizzaria
 -> o app deve permitir a pizzaria alterar o cardapio<br>
