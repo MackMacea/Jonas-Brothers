@@ -33,7 +33,7 @@
 ## Requisitos funcionais:
 -> o sistema deve receber as fabricas da franquia <br>
 -> o sistema deve receber a solicitação de pedido do app<br>
--> o sistema vai avaliar qual fabrica cadstrada possui o menor tempo de entrega possivel <br>
+-> o sistema vai avaliar qual fabrica cadastrada possui o menor tempo de entrega possivel <br>
 -> o sistema vai devolver a solicitação para o app<br>
 -> o sistema vai enviar a demanda para a fabrcia designada<br>
 -> o sistema só encerra o pedido após receber a confirmação do codigo de entrega<br>
